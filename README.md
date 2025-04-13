@@ -1,6 +1,6 @@
 # Highlight Saver Chrome Extension
 
-![Highlight Saver Icon](icon128.png)
+![Highlight Saver Icon](icons/icon128.png)
 
 A simple and elegant Chrome extension that allows users to save highlighted text from webpages, view them in a popup, and toggle between light and dark themes.
 
