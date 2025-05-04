@@ -8,7 +8,7 @@ A simple and elegant Chrome extension that allows users to save highlighted text
 - **Save Highlights**: Right-click on selected text and choose "Save Highlight" to store it.
 - **View Highlights**: See all saved highlights in a scrollable list with a clean, bordered design.
 - **Theme Toggle**: Switch between light and dark themes with a single click.
-- **Persistent Storage**: Highlights and theme preferences are saved and persist across browser sessions.
+- **Persistent Storage**: Highlights and theme preferences are saved and persist across all browser sessions.
 - **Social Links**: Links to the developer's GitHub and LinkedIn profiles.
 
 ## Screenshots
